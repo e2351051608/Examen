@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMmxNMYFl4zc72kc01Ug6TYuC5u6qpoO6yKivXk6ZtvnnQn2qRcbdZizeAZs1d7E/Eu/D5Qxo865Vwu6UuBz8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\ExamenWashingtonBriones3B\\ExamenWashingtonBriones3B\\ExamenWashingtonBriones3B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
